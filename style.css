@@ -1,3 +1,32 @@
-head {
-    
+.contact { background-color: darkblue;
+    width: 40%;
+    height: 180px;
+    border: 8px groove rgb(221, 128, 240);
+    padding: 8px;
+    margin: 5px;
+    color: rgb(33, 184, 230);
+    font-size: 20px;
+    float: right;
+}
+
+.name { background-color:blue; 
+    font-size: 45px;
+    text-align: center;
+    width: 90%;
+    border: 10px groove lightcoral;
+    padding: 30px;
+    margin: 10px;
+    color: turquoise;
+}
+
+p { background-color: mintcream; 
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 600px;
+    height: 150px;
+    border: 5px ridge blueviolet;
+    padding: 7px;
+    margin: 10px;
+    color: rgb(153, 11, 172);
+
 }
